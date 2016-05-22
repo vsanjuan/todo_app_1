@@ -11,6 +11,9 @@
 							type="object"
 							string="Toggle Done"
 							class="oe_highlight" />
+						<button name="do_clear_done"
+							type="object"
+							string="Clear All Done" />
 					</header>
 					<field name="name"/>
 					<field name="is_done"/>
